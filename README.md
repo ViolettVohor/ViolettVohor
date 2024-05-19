@@ -23,12 +23,15 @@
 </div>
   <!--<a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
  
-  ![Snake animation](https://github.com/ViolettVohor/ViolettVohor/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ViolettVohor&repo=ViolettVohor&theme=react)](https://github.com/ViolettVohor/ViolettVohor)
 
+<br>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ViolettVohor&repo=ViolettVohor&theme=react)](https://github.com/ViolettVohor/ViolettVohor)
+<br>
+
+![Snake animation](https://github.com/ViolettVohor/ViolettVohor/blob/output/github-contribution-grid-snake.svg)
 <!--
 **ViolettVohor/ViolettVohor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
